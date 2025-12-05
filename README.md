@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 # ✨ Sudhanshu Manohar
 
-## 👋 Hi there!
 I’m **Sudhanshu**, a **Machine Learning Engineer & Backend Developer** passionate about building scalable ML systems, fine-tuning LLMs, and engineering production-ready microservices. I love turning complex ideas into real-world AI products with clean engineering + strong MLOps.
 
 ---
